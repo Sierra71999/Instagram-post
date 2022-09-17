@@ -1,0 +1,33 @@
+html, body{
+    background-color: lightgray;
+    margin: 0;
+    
+}
+h1 {
+    background-color: white;
+}
+header {
+   padding: 10px;
+
+   
+}
+.post {
+    width: 500px;
+    height: 400px;
+    background-color: white;
+    margin: 0 auto;
+}
+.header {
+    display: flex;
+    padding-top: 20px;
+}
+.date {
+    margin-left: 250px;
+}
+img {
+    width: 500px;
+    height: 300px;
+}
+.container {
+    text-align: center;
+}
